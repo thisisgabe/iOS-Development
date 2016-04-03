@@ -12,6 +12,7 @@
 		C0D707CA1CABA1690046AC65 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C0D707C81CABA1690046AC65 /* Main.storyboard */; };
 		C0D707CC1CABA1690046AC65 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C0D707CB1CABA1690046AC65 /* Assets.xcassets */; };
 		C0D707CF1CABA1690046AC65 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C0D707CD1CABA1690046AC65 /* LaunchScreen.storyboard */; };
+		C0F2BD951CB0E07600C77722 /* jNgy1b3MR0uJx7rysNNf_Rooftops by Igor Ovsyannykov.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C0F2BD941CB0E07600C77722 /* jNgy1b3MR0uJx7rysNNf_Rooftops by Igor Ovsyannykov.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		C0D707CB1CABA1690046AC65 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C0D707CE1CABA1690046AC65 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C0D707D01CABA1690046AC65 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C0F2BD941CB0E07600C77722 /* jNgy1b3MR0uJx7rysNNf_Rooftops by Igor Ovsyannykov.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jNgy1b3MR0uJx7rysNNf_Rooftops by Igor Ovsyannykov.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				C0D707C61CABA1690046AC65 /* ViewController.swift */,
 				C0D707C81CABA1690046AC65 /* Main.storyboard */,
 				C0D707CB1CABA1690046AC65 /* Assets.xcassets */,
+				C0F2BD941CB0E07600C77722 /* jNgy1b3MR0uJx7rysNNf_Rooftops by Igor Ovsyannykov.jpg */,
 				C0D707CD1CABA1690046AC65 /* LaunchScreen.storyboard */,
 				C0D707D01CABA1690046AC65 /* Info.plist */,
 			);
@@ -124,6 +127,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C0D707CF1CABA1690046AC65 /* LaunchScreen.storyboard in Resources */,
+				C0F2BD951CB0E07600C77722 /* jNgy1b3MR0uJx7rysNNf_Rooftops by Igor Ovsyannykov.jpg in Resources */,
 				C0D707CC1CABA1690046AC65 /* Assets.xcassets in Resources */,
 				C0D707CA1CABA1690046AC65 /* Main.storyboard in Resources */,
 			);
@@ -250,10 +254,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = HelloWorld/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = me.gabev.HelloWorld;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Debug;
 		};
@@ -261,10 +268,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = HelloWorld/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = me.gabev.HelloWorld;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Release;
 		};
@@ -287,6 +297,7 @@
 				C0D707D51CABA1690046AC65 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
