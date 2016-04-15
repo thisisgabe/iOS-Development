@@ -10,6 +10,10 @@ import UIKit
 
 class DateInfoController: UIViewController {
 
+    @IBOutlet weak var datePicker: UIDatePicker!
+    @IBOutlet weak var labelAge: UILabel!
+    @IBOutlet weak var labelDayofweek: UILabel!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
@@ -21,6 +25,25 @@ class DateInfoController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
     
+    @IBAction func buttonPressed(sender: UIButton) {
+        
+        let birthday = datePicker.date
+        let calendar = NSCalendar.currentCalendar()
+        let now = NSDate()
+        let ageComponents = calendar.components(.Year,
+                                                fromDate: birthday,
+                                                toDate: now,
+                                                options: [])
+        let age = ageComponents.year
+        
+        labelAge.text = "You are \(age) years old. Hooray!"
+        
+        let dateFormatter = NSDateFormatter()
+        dateFormatter.dateFormat = "EEEE"
+        let dayOfWeekString = dateFormatter.stringFromDate(birthday)
+        labelDayofweek.text = "You were born on a \(dayOfWeekString). Tubular!"
+    
+    }
 
     /*
     // MARK: - Navigation

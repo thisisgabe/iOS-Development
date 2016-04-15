@@ -62,6 +62,7 @@ class DependentComponentPickerViewController: UIViewController, UIPickerViewDele
     // MARK: Picker Data Source Methods
     func numberOfComponentsInPickerView(pickerView: UIPickerView) -> Int {
         return 2 }
+    
     func pickerView(pickerView: UIPickerView,
                     numberOfRowsInComponent component: Int) -> Int {
         if component == stateComponent {

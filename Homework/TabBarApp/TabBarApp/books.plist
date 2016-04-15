@@ -4,23 +4,58 @@
 <dict>
 	<key>For Whom the Bell Tolls</key>
 	<array>
-		<string></string>
+		<string>belltolls</string>
+		<string>n 1937 Ernest Hemingway traveled to Spain to cover the civil war there for the North American Newspaper Alliance. Three years later he completed the greatest novel to emerge from &quot;the good fight&quot;, For Whom the Bell Tolls. The story of Robert Jordan, a young American in the International Brigades attached to an antifascist guerilla unit in the mountains of Spain, it tells of loyalty and courage, love and defeat, and the tragic death of an ideal. In his portrayal of Jordan&apos;s love for the beautiful Maria and his superb account of El Sordo&apos;s last stand, in his brilliant travesty of La Pasionaria and his unwillingness to believe in blind faith, Hemingway surpasses his achievement in The Sun Also Rises and A Farewell to Arms to create a work at once rare and beautiful, strong and brutal, compassionate, moving and wise. &quot;If the function of a writer is to reveal reality,&quot; Maxwell Perkins wrote to Hemingway after reading the manuscript, &quot;no one ever so completely performed it.&quot; Greater in power, broader in scope, and more intensely emotional than any of the author&apos;s previous works, it stands as one of the best war novels of all time</string>
 	</array>
 	<key>On The Road</key>
-	<array/>
+	<array>
+		<string>ontheroad</string>
+		<string>On the Road chronicles Jack Kerouac&apos;s years traveling the North American continent with his friend Neal Cassady, &quot;a sideburned hero of the snowy West.&quot; As &quot;Sal Paradise&quot; and &quot;Dean Moriarty,&quot; the two roam the country in a quest for self-knowledge and experience. Kerouac&apos;s love of America, his compassion for humanity, and his sense of language as jazz combine to make On the Road an inspirational work of lasting importance.
+
+Kerouac&apos;s classic novel of freedom and longing defined what it meant to be &quot;Beat&quot; and has inspired every generation since its initial publication.</string>
+	</array>
 	<key>The Old Man and the Sea</key>
 	<array>
-		<string></string>
+		<string>oldman</string>
+		<string>The Old Man and the Sea is one of Hemingway&apos;s most enduring works. Told in language of great simplicity and power, it is the story of an old Cuban fisherman, down on his luck, and his supreme ordeal -- a relentless, agonizing battle with a giant marlin far out in the Gulf Stream. 
+
+Here Hemingway recasts, in strikingly contemporary style, the classic theme of courage in the face of defeat, of personal triumph won from loss. Written in 1952, this hugely successful novella confirmed his power and presence in the literary world and played a large part in his winning the 1954 Nobel Prize for Literature.</string>
 	</array>
 	<key>A Clockwork Orange</key>
-	<array/>
+	<array>
+		<string>clockwork</string>
+		<string>A vicious fifteen-year-old &quot;droog&quot; is the central character of this 1963 classic, whose stark terror was captured in Stanley Kubrick&apos;s magnificent film of the same title.
+
+In Anthony Burgess&apos;s nightmare vision of the future, where criminals take over after dark, the story is told by the central character, Alex, who talks in a brutal invented slang that brilliantly renders his and his friends&apos; social pathology. A Clockwork Orange is a frightening fable about good and evil, and the meaning of human freedom. When the state undertakes to reform Alex—to &quot;redeem&quot; him—the novel asks, &quot;At what cost?&quot;
+
+This edition includes the controversial last chapter not published in the first edition and Burgess&apos;s introduction &quot;A Clockwork Orange Resucked&quot;.</string>
+	</array>
 	<key>Fahrenheit 451</key>
-	<array/>
+	<array>
+		<string>fahrenheit451</string>
+		<string>The terrifyingly prophetic novel of a post-literate future.
+Guy Montag is a fireman. His job is to burn books, which are forbidden, being the source of all discord and unhappiness. Even so, Montag is unhappy; there is discord in his marriage. Are books hidden in his house? The Mechanical Hound of the Fire Department, armed with a lethal hypodermic, escorted by helicopters, is ready to track down those dissidents who defy society to preserve and read books.
+
+The classic dystopian novel of a post-literate future, Fahrenheit 451 stands alongside Orwell’s 1984 and Huxley’s Brave New World as a prophetic account of Western civilization’s enslavement by the media, drugs and conformity.
+
+Bradbury’s powerful and poetic prose combines with uncanny insight into the potential of technology to create a novel which, decades on from first publication, still has the power to dazzle and shock.</string>
+	</array>
 	<key>Animal Farm</key>
-	<array/>
+	<array>
+		<string>animalfarm</string>
+		<string>Tired of their servitude to man, a group of farm animals revolt and establish their own society, only to be betrayed into worse servitude by their leaders, the pigs, whose slogan becomes: &quot;All animals are equal, but some animals are more equal than others.&quot; This 1945 satire addresses the socialist/communist philosophy of Stalin in the Soviet Union.</string>
+	</array>
 	<key>1984</key>
-	<array/>
+	<array>
+		<string>1984</string>
+		<string>The year 1984 has come and gone, but George Orwell&apos;s prophetic, nightmarish vision in 1949 of the world we were becoming is timelier than ever. 1984 is still the great modern classic of &quot;negative utopia&quot; -a startlingly original and haunting novel that creates an imaginary world that is completely convincing, from the first sentence to the last four words. No one can deny the novel&apos;s hold on the imaginations of whole generations, or the power of its admonitions -a power that seems to grow, not lessen, with the passage of time.</string>
+	</array>
 	<key>A Brave New World</key>
-	<array/>
+	<array>
+		<string>bravenewworld</string>
+		<string>Far in the future, the World Controllers have created the ideal society. Through clever use of genetic engineering, brainwashing and recreational sex and drugs, all its members are happy consumers. Bernard Marx seems alone harbouring an ill-defined longing to break free. A visit to one of the few remaining Savage Reservations, where the old, imperfect life still continues, may be the cure for his distress...
+
+Huxley&apos;s ingenious fantasy of the future sheds a blazing light on the present and is considered to be his most enduring masterpiece.</string>
+	</array>
 </dict>
 </plist>
