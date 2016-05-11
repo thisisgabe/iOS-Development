@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>0</key>
+	<array>
+		<string>If you pass the 2nd person in a race what will You be coming?</string>
+		<string>2</string>
+		<string>1st</string>
+		<string>2nd</string>
+		<string>3rd</string>
+		<string>4th</string>
+	</array>
+	<key>1</key>
+	<array>
+        <string>Mary's father had 5 children:
+            Mimi
+            Mumu
+            Mama
+            Meme
+            What was the 5th child's name?</string>
+		<string>4</string>
+		<string>Momo</string>
+		<string>Mymy</string>
+		<string>Marie</string>
+		<string>Mary</string>
+	</array>
+	<key>2</key>
+	<array>
+		<string>How could the 22nd and 24th U.S. Presidents have the same parents, but werent brothers?</string>
+		<string>4</string>
+		<string>The parents were cheating.</string>
+		<string>They were sisters.</string>
+		<string>They were siblings.</string>
+		<string>It was the same person.</string>
+	</array>
+	<key>3</key>
+	<array>
+		<string>What is light as a feather, but even the strongest man cannot hold it more than a few minutes?</string>
+		<string>3</string>
+        <string>A smile.</string>
+		<string>A feather.</string>
+		<string>His breath.</string>
+		<string>The air.</string>
+	</array>
+	<key>4</key>
+	<array>
+		<string>On my way to the fair, I met 7 jugglers and a bear, every juggler had 6 cats, every cat had 5 rats, every rat had 4 houses, every house had 3 mice, every mouse had 2 lice, every louse had a spouse. How many in all are going to the fair?</string>
+		<string>1</string>
+		<string>Just me, the others were coming out of the fair.</string>
+		<string>Too many to count.</string>
+		<string>4033</string>
+		<string>Don't know, I wasn't counting.</string>
+	</array>
+	<key>5</key>
+	<array>
+		<string>Imagine you are in a sinking rowboat surrounded by sharks. How would you survive?</string>
+		<string>1</string>
+		<string>Stop imagining.</string>
+		<string>You couldn't, the sharks will eat you.</string>
+		<string>Fly away in a helicopter.</string>
+		<string>Use the force.</string>
+	</array>
+	<key>6</key>
+	<array>
+        <string>7
+            A man left home running. He ran a ways and then turned left, ran the same distance and turned left again, ran the same distance and turned left again. When he got home there were two masked men. Who were they?</string>
+		<string>3</string>
+		<string>Robbers.</string>
+		<string>The police.</string>
+		<string>The catcher and the umpire</string>
+		<string>His angry neighbors</string>
+	</array>
+	<key>7</key>
+	<array>
+		<string>There was an airplane crash, every single person died, but two people survived. How is this possible?</string>
+		<string>1</string>
+		<string>They were married.</string>
+		<string>They were not on the airplane.</string>
+		<string>The 2 were saved by others.</string>
+		<string>They had parachutes.</string>
+	</array>
+	<key>8</key>
+	<array>
+		<string>The Mississippi River is the dividing line between Tennessee and Arkansas. If an airplane crashed exactly in the middle of the Mississippi River there, where would the survivors be buried?</string>
+		<string>2</string>
+		<string>In the town of their birth.</string>
+		<string>Nowhere, you don't bury survivors.</string>
+		<string>Whatever side of the river the people were on.</string>
+		<string>Half in Mississippi, half in Tennessee</string>
+	</array>
+	<key>9</key>
+	<array>
+		<string>How far can you walk into the woods?</string>
+		<string>2</string>
+		<string>Halfway.</string>
+		<string>As far as you want.</string>
+		<string>All the way and then back out again.</string>
+		<string>Pretty far.</string>
+	</array>
+</dict>
+</plist>
